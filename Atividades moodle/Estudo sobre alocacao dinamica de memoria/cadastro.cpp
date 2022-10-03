@@ -59,6 +59,7 @@ void achaID(people *v, int *n, int id){
             return;
         }
     }
+    
     cout << endl << "Usuario nao encontrado!" << endl << endl;
 }
 
